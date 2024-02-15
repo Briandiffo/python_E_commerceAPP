@@ -1,0 +1,8 @@
+article 0 0
+iphone12 5 180
+iphone13 10 250
+iphonr14 45 220
+iphone11 21 200
+iphone7 5 170
+iphone8 10 40
+iphonex 15 50
